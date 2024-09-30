@@ -1,11 +1,3 @@
-LinkedIn Post:
-🚀 Successfully Completed My Email Spam Filtering Project! 🚀
-
-Hey, LinkedIn! 👋
-
-I'm excited to share my latest project—Email Spam Filtering System—which is now live! 🎉
-
-This project is designed to filter out spam emails and categorize them as either "spam" or "ham" using a machine learning model integrated into a user-friendly web application.
 
 🔍 Project Overview:
 The goal was to create a powerful, efficient, and easy-to-use email filtering system that could identify spam emails using advanced techniques and deliver fast, accurate results for users.
